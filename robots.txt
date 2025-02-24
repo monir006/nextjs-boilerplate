@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Allow: /index.html
+Allow: /pages/about.html
+Allow: /pages/services.html
+Allow: /pages/contact.html
+Disallow: /pages/admin-dashboard.html
+Disallow: /pages/login.html
+Disallow: /pages/register.html
+
+Sitemap: https://yourdomain.com/sitemap.xml
